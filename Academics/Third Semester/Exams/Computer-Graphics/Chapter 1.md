@@ -1,3 +1,7 @@
+---
+updated_at: 2025-04-03T11:46:26.376+05:45
+edited_seconds: 60
+---
 # Use of computer Graphics
 1. UI
 2. Data Visualization
@@ -86,7 +90,9 @@
 4. What is a video controller
 5. What are flat panel displays? Differentiate between emissive and non emissive displays?
 6. Write about the major parts OF CRT
-## Numericals
+## Numerical
+
 ![[250319_08h55m16s_screenshot.png]]
 
 
+NC nl is the very fine line between what i am and what i should be if the pokemon is the problem then i can be the ass so that the jismi mai bue kkk 

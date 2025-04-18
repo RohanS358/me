@@ -1,18 +1,18 @@
-# Microprocessor Syllabus Checklist
+ # Microprocessor Syllabus Checklist
 
 ## Chapter 1 : Introduction
-- [ ] Introduction to microprocessors
-- [ ] History of microprocessors
-- [ ] Basic block diagram of a digital computer
-- [ ] Microcomputer and microcontroller
-- [ ] Bus organization of computer system
-- [ ] Stored program concept (Von Neumann’s architecture)
-- [ ] Processing cycle of a stored program computer
+- [x] Introduction to microprocessors
+- [x] History of microprocessors
+- [x] Basic block diagram of a digital computer
+- [x] Microcomputer and microcontroller
+- [x] Bus organization of computer system
+- [x] Stored program concept (Von Neumann’s architecture)
+- [x] Processing cycle of a stored program computer
 
 ## Chapter 2 : Intel 8085 Microprocessor
-- [ ] Features of 8085
-- [ ] Internal architecture of 8085
-- [ ] Pin configurations of 8085
+- [x] Features of 8085
+- [x] Internal architecture of 8085
+- [x] Pin configurations of 8085
 - [ ] Instruction format and data format
 - [ ] Addressing modes of 8085
 - [ ] Instruction set of 8085
@@ -22,8 +22,8 @@
   - [ ] Array and table processing
   - [ ] Decimal - BCD conversion
   - [ ] Multiplication and division
-- [ ] Instruction cycle, machine cycle, and T-cycle
-- [ ] Timing diagrams of bus operations
+- [x] Instruction cycle, machine cycle, and T-cycle
+- [x] Timing diagrams of bus operations
 
 ## Chapter 3 : Intel 8086 Microprocessor
 - [ ] Features of 8086
@@ -56,15 +56,15 @@
   - [ ] Displaying numbers in decimal, binary, and hexadecimal formats
 
 ## Chapter 4 : Microprocessor System
-- [ ] Memory classifications and hierarchy
+- [x] Memory classifications and hierarchy
 - [ ] Interfacing I/O devices and memory with 8085
-  - [ ] Address decoding
-  - [ ] Unique and non-unique address decoding
-  - [ ] I/O mapped I/O and memory-mapped I/O
+  - [x] Address decoding
+  - [x] Unique and non-unique address decoding
+  - [x] I/O mapped I/O and memory-mapped I/O
   - [ ] I/O address decoding with NAND and block decoders
   - [ ] Memory address decoding
 - [ ] Parallel Interface
-  - [ ] Modes: Simple, wait, single handshaking, and double handshaking
+  - [x] Modes: Simple, wait, single handshaking, and double handshaking
   - [ ] Introduction to programmable peripheral interface (PPI)
 - [ ] Serial Interface
   - [ ] Synchronous and asynchronous transmission
@@ -72,20 +72,20 @@
   - [ ] Introduction to USART
 
 ## Chapter 5 : Interrupt Operations
-- [ ] Interrupt and its importance
-- [ ] Polling vs interrupt
-- [ ] Types of interrupts
-- [ ] Interrupts in 8085 and interrupt instructions
-- [ ] Interrupt service routine
-- [ ] Interrupt processing in 8085
+- [x] Interrupt and its importance
+- [x] Polling vs interrupt
+- [x] Types of interrupts
+- [x] Interrupts in 8085 and interrupt instructions
+- [x] Interrupt service routine
+- [x] Interrupt processing in 8085
 - [ ] Using programmable interrupt controllers (PIC)
-- [ ] Interrupt in 8086 and interrupt vector table
-- [ ] Interrupt processing in 8086
+- [x] Interrupt in 8086 and interrupt vector table
+- [x] Interrupt processing in 8086
 
 ## Chapter 6 : Advanced Topics
-- [ ] Harvard architecture
-- [ ] Accumulator-based and register-based architecture
-- [ ] Hardwired and microprogrammed control unit
-- [ ] RISC and CISC
-- [ ] Introduction to multiprocessing/multitasking
-- [ ] Digital signal processor
+- [x] Harvard architectu  re
+- [x] Accumulator-based and register-based architecture
+- [x] Hardwired and microprogrammed control unit
+- [x] RISC and CISC
+- [x] Introduction to multiprocessing/multitasking
+- [x] Digital signal processor
